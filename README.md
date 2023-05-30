@@ -1,4 +1,4 @@
-#Screenshot
+# Screenshot
 
 
 ![image](https://github.com/arturburatto/chronometer/assets/72110904/26a075ad-3278-41aa-8517-fb901af8f557)
