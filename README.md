@@ -1,3 +1,10 @@
+#Screenshot
+
+
+![image](https://github.com/arturburatto/chronometer/assets/72110904/26a075ad-3278-41aa-8517-fb901af8f557)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -50,5 +57,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 
 
